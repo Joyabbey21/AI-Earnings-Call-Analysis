@@ -1,0 +1,183 @@
+{
+  "audio_file": "conversation_three.mp3",
+  "generated_at": "2026-07-04T08:32:47.765869",
+  "pipeline_summary": {
+    "total_speaker_turns": 17,
+    "num_speakers": 4,
+    "num_topics": 3,
+    "num_boundaries": 11,
+    "word_error_rate": 0.0958
+  },
+  "turns": [
+    {
+      "speaker": "SPEAKER_01",
+      "start": 0.0,
+      "text": "Good morning, everyone. Q4 was a milestone quarter for Tech Venture as we achieved record ARR growth of 22%. While our top-line momentum remains strong, we are maintaining a disciplined stance on regional operating expenses to protect our long-term scalability. Turning to the numbers,",
+      "topic_id": -1,
+      "topic_label": "-1_growth_arr_strategic_record",
+      "is_boundary": true,
+      "sentiment": "positive",
+      "sentiment_score": 0.9716
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "start": 18.52,
+      "text": "our EBITDA margins faced some compression this quarter, landing at 14% due to front-loaded infrastructure investments. Gross retention remains healthy at 91%, though we did see some elongation in mid-market sales cycles through December.",
+      "topic_id": 0,
+      "topic_label": "0_margins_path_quarter_market",
+      "is_boundary": true,
+      "sentiment": "neutral",
+      "sentiment_score": 0.6952
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "start": 35.76,
+      "text": "Thanks for the color. Can you bridge the gap between that record ARR and the softer than expected revenue guidance for Q1?",
+      "topic_id": -1,
+      "topic_label": "-1_growth_arr_strategic_record",
+      "is_boundary": true,
+      "sentiment": "neutral",
+      "sentiment_score": 0.745
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 43.0,
+      "text": "We believe the market is stabilizing, but we're being prudent with guidance given the ongoing budget scrutiny, our clients are facing. Follow up for the CFO.",
+      "topic_id": 0,
+      "topic_label": "0_margins_path_quarter_market",
+      "is_boundary": true,
+      "sentiment": "positive",
+      "sentiment_score": 0.525
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "start": 52.92,
+      "text": "Your CSE jumped nearly 15% this quarter. Is that the new baseline or a one-off spike? That increase reflects higher bidding costs",
+      "topic_id": 0,
+      "topic_label": "0_margins_path_quarter_market",
+      "is_boundary": false,
+      "sentiment": "neutral",
+      "sentiment_score": 0.6469
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "start": 61.4,
+      "text": "in the enterprise segment. So we are trending toward a more elevated acquisition cost in the near-term.",
+      "topic_id": 2,
+      "topic_label": "2_players_elevated_power_trending",
+      "is_boundary": true,
+      "sentiment": "neutral",
+      "sentiment_score": 0.8786
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 68.12,
+      "text": "On the competitive front, how are you defending your pricing power against the aggressive discounting we're seeing from legacy players?",
+      "topic_id": 2,
+      "topic_label": "2_players_elevated_power_trending",
+      "is_boundary": false,
+      "sentiment": "neutral",
+      "sentiment_score": 0.8581
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 75.88,
+      "text": "We don't compete on price alone, though we have occasionally offered flexible payment terms to secure strategic multi-year renewals.",
+      "topic_id": -1,
+      "topic_label": "-1_growth_arr_strategic_record",
+      "is_boundary": true,
+      "sentiment": "neutral",
+      "sentiment_score": 0.8297
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 83.4,
+      "text": "But if margins are already pressured, doesn't that flexibility threaten your path to free cash flow positive by 2025?",
+      "topic_id": 0,
+      "topic_label": "0_margins_path_quarter_market",
+      "is_boundary": true,
+      "sentiment": "neutral",
+      "sentiment_score": 0.6233
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "start": 91.56,
+      "text": "I want to be clear that our path to profitability is intact, subject to market conditions remaining relatively stable next year.",
+      "topic_id": 0,
+      "topic_label": "0_margins_path_quarter_market",
+      "is_boundary": false,
+      "sentiment": "positive",
+      "sentiment_score": 0.7949
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 99.52,
+      "text": "And what about the churn in the SMB segment? It seems higher than the historical average you mentioned earlier.",
+      "topic_id": 1,
+      "topic_label": "1_smb_churn_volatile_accounts",
+      "is_boundary": true,
+      "sentiment": "neutral",
+      "sentiment_score": 0.58
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 106.16,
+      "text": "The SMB space is certainly more volatile right now, and we are strategically pivoting our sales focus toward more resilient enterprise accounts. We are confident that this shift will normalize our churn rates as we move into the second half of 2025.",
+      "topic_id": 1,
+      "topic_label": "1_smb_churn_volatile_accounts",
+      "is_boundary": false,
+      "sentiment": "neutral",
+      "sentiment_score": 0.5824
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "start": 122.16000000000001,
+      "text": "To add to that, we're strictly managing our headcount growth to offset any further margin volatility from the SMB side.",
+      "topic_id": 1,
+      "topic_label": "1_smb_churn_volatile_accounts",
+      "is_boundary": false,
+      "sentiment": "neutral",
+      "sentiment_score": 0.7493
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "start": 129.68,
+      "text": "Understood, so it sounds like growth is the priority, even if it means some short-term pain on the bottom line.",
+      "topic_id": -1,
+      "topic_label": "-1_growth_arr_strategic_record",
+      "is_boundary": true,
+      "sentiment": "neutral",
+      "sentiment_score": 0.6038
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 136.60000000000002,
+      "text": "Our priority is sustainable growth, even if that requires us to be more aggressive in defending our market share against new entrants.",
+      "topic_id": -1,
+      "topic_label": "-1_growth_arr_strategic_record",
+      "is_boundary": false,
+      "sentiment": "positive",
+      "sentiment_score": 0.7275
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "start": 144.84,
+      "text": "We'll provide more granular detail on the 2025 roadmap during our next filing. But for now, we remain cautiously optimistic.",
+      "topic_id": 0,
+      "topic_label": "0_margins_path_quarter_market",
+      "is_boundary": true,
+      "sentiment": "neutral",
+      "sentiment_score": 0.6792
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 153.32,
+      "text": "Thank you all for joining us. We look forward to executing on these strategic initiatives in the coming months.",
+      "topic_id": -1,
+      "topic_label": "-1_growth_arr_strategic_record",
+      "is_boundary": true,
+      "sentiment": "positive",
+      "sentiment_score": 0.9834
+    }
+  ]
+}
