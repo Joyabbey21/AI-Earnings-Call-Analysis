@@ -233,7 +233,7 @@ Possible future enhancements include:
 
 # Author
 
-**Abiodun Joy**
+**Joy Abiodun**
 
 AI Applications & Content Development Intern
 
