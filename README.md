@@ -187,11 +187,13 @@ The completed pipeline successfully performs:
 
 The notebook includes three visualizations, also available in `assets/`:
 
--  **Speaker Distribution** — number of turns per speaker
--  **Topic Distribution** — timeline of which topic was discussed when
+- **Speaker Distribution** — number of turns per speaker
+- **Topic Distribution** — timeline of which topic was discussed when
 - **Sentiment Distribution** — overall emotional tone breakdown
 
-These visualizations provide an intuitive overview of speaker participation, discussion themes, and the overall emotional tone of the earnings call.
+![Speaker Distribution](assets/speaker_distribution.png)
+![Topic Distribution](assets/topic_distribution.png)
+![Sentiment Distribution](assets/sentiment_distribution.png)
 
 ---
 
